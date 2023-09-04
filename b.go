@@ -3,10 +3,10 @@ package b
 import (
 	"fmt"
 
-	"github.com/NadavAzari1/A"
+	c "github.com/NadavAzari1/C"
 )
 
 func HelloWorldB() {
-	A.HelloWorldA()
+	c.HelloWorldC()
 	fmt.Println("Hello World B!")
 }
